@@ -1,0 +1,12 @@
+C:\AutomotiveEmbedded_Programming\LAB_1\Debug\BrowseInfo\main.pbi: \
+  C:\AutomotiveEmbedded_Programming\LAB_1\main.c \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Product.h \
+  C:\AutomotiveEmbedded_Programming\LAB_1\TM4C123GH6PM.h \
+  C:\AutomotiveEmbedded_Programming\LAB_1\Port_Config.h \
+  C:\AutomotiveEmbedded_Programming\LAB_1\SysTick.h \
+  C:\AutomotiveEmbedded_Programming\LAB_1\scheduler.h
