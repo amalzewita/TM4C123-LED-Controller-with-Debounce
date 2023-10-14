@@ -2,14 +2,6 @@
 
 This repository provides a simple example demonstrating how to control the state of an RGB LED on the TM4C123GH6PM microcontroller using onboard buttons. The LED can display four colors: white, red, green, and blue.
 
-Certainly, here's a table of contents for the provided document:
-
----
-
-# LED State Control for TM4C123GH6PM
-
-A guide to controlling an RGB LED's state on the TM4C123GH6PM microcontroller using onboard buttons.
-
 ## Table of Contents
 - [Introduction](#led-state-control-for-tm4c123gh6pm)
 - [Features](#features)
