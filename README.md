@@ -2,6 +2,36 @@
 
 This repository provides a simple example demonstrating how to control the state of an RGB LED on the TM4C123GH6PM microcontroller using onboard buttons. The LED can display four colors: white, red, green, and blue.
 
+Certainly, here's a table of contents for the provided document:
+
+---
+
+# LED State Control for TM4C123GH6PM
+
+A guide to controlling an RGB LED's state on the TM4C123GH6PM microcontroller using onboard buttons.
+
+## Table of Contents
+- [Introduction](#led-state-control-for-tm4c123gh6pm)
+- [Features](#features)
+    * [LED State Enumeration](#led-state-enumeration)
+    * [Button Debounce](#button-debounce)
+    * [State Control Logic](#state-control-logic)
+- [Setup and Usage](#setup-and-usage)
+    * [Setup](#setup)
+    * [Main Loop](#main-loop)
+    * [Debounce](#debounce)
+- [Code Structure](#code-structure)
+    * [`setup()` Function](#setup-function)
+    * [`debounceDelay()` Function](#debouncedelay-function)
+    * [`main()` Function](#main-function)
+- [Dependencies](#dependencies)
+    * [`TM4C123GH6PM.h` Header](#tm4c123gh6pmh-header)
+    * [`Port_Config.h` Header](#port_configh-header)
+    * [`SysTick.h` Header](#systickh-header)
+    * [`scheduler.h` Header](#schedulerh-header)
+- [Notes](#notes)
+- [Contribution](#contribution)
+
 ## Features
 
 - **LED State Enumeration**: Uses a well-defined enumeration (`LEDState`) for maintaining the states of the LED: WHITE, RED, GREEN, BLUE.
